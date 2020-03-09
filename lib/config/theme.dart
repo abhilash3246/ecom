@@ -17,7 +17,7 @@ class AppSizes {
 }
 
 class AppColors {
-  static const red = Color(0xFFDB3022);
+  static const red = Colors.blue;
   static const black = Color(0xFF222222);
   static const lightGray = Color(0xFF9B9B9B);
   static const darkGray = Color(0xFF979797);
