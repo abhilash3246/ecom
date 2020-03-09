@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ecom/config/theme.dart';
-import 'package:eco/data/fake_repositories/models/product.dart';
+import 'package:ecom/data/fake_repositories/models/product.dart';
 
 import 'widgets.dart';
 
