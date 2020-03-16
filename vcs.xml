@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/abhilash3246/ecom.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/abhilash3246/nabina.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\abhilash\StudioProjects" />
