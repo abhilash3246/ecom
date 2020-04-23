@@ -38,6 +38,14 @@
           <option name="url" value="https://github.com/zubairehman/SEMBAST-Example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="abhilash_4" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://abhilash_4@bitbucket.org/ajaygosh/nabina.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\abhilash\StudioProjects" />
