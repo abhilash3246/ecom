@@ -90,6 +90,10 @@
           <option name="url" value="https://github.com/subins2000/manglish.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/coolwd10/ExpandablelistwithGirdview.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\abhilash\StudioProjects" />
