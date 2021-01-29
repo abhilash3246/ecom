@@ -40,7 +40,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="Android24messenger" />
+          <option name="userName" value="Abhilash_dev" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://abhilash_4@bitbucket.org/ajaygosh/nabina.git" />
@@ -108,6 +108,10 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://Android24messenger@bitbucket.org/rsharma87/24_daniel_android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Abhilash_dev@bitbucket.org/24messenger/24mes-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
