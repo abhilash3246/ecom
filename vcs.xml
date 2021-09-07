@@ -122,6 +122,10 @@
           <option name="url" value="http://gitlab.webandcrafts.com" />
           <option name="userName" value="abhilash@wacmob.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.webandcrafts.com:sreejith2023/blueage.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\abhilash\StudioProjects" />
