@@ -134,6 +134,10 @@
           <option name="url" value="https://gitlab.webandcrafts.com/febin/kairali-faredeal.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.webandcrafts.com/webandcrafts-lead/wac102021fp015-trikart-flutter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\abhilash\StudioProjects" />
