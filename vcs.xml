@@ -150,6 +150,10 @@
           <option name="url" value="https://gitlab.webandcrafts.com/amal/joyalukkas_egp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.webandcrafts.com/febin/wac022022fp04-wishill-flutter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\abhilash\StudioProjects" />
