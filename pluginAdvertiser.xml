@@ -109,6 +109,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.bat">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Batch Scripts Support" />
+              <option name="myPluginName" value="Batch Scripts Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.bigtiff">
           <value>
             <plugin>
@@ -151,6 +159,14 @@
               <option name="myPluginId" value="com.android.tools.ndk" />
               <option name="myPluginName" value="Android NDK Support" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.cmd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="Batch Scripts Support" />
+              <option name="myPluginName" value="Batch Scripts Support" />
             </plugin>
           </value>
         </entry>
@@ -1385,6 +1401,11 @@
                   <entry key="Application">
                     <value>
                       <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" />
+                    </value>
+                  </entry>
+                  <entry key="BatchConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Batch" pluginName="Batch Scripts Support" pluginId="Batch Scripts Support" />
                     </value>
                   </entry>
                   <entry key="ComposePreviewRunConfiguration">
