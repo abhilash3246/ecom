@@ -154,9 +154,13 @@
           <option name="url" value="https://gitlab.webandcrafts.com/febin/wac022022fp04-wishill-flutter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/synapticweb/CallRecorder.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\abhilash\StudioProjects\New folder" />
+    <option name="cloneParentDir" value="C:\Users\abhilash\StudioProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
