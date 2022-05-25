@@ -12,6 +12,18 @@
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="e9ad481" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-25T02:57:10.782291200Z" />
+        <name value="realme RMX1921" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
