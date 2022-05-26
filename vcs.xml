@@ -162,6 +162,10 @@
           <option name="url" value="https://gitlab.com/testabhilash4/flutter-hive.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/abhilashh/machinetest_clt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\abhilash\StudioProjects" />
